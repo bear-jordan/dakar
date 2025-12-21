@@ -2,6 +2,8 @@
 *   **Start Date**: ~Feb 2, 2026
 *   **End Date**: **Feb 6, 2026** (Official Finish Line)
 *   **Duration**: ~4 Days
+*   **Distance**: ~25 km (Border to Ferry/Capital)
+*   **Drive Load**: ~4-6 Hours/Day
 *   **Visa**: Check VOA status. Likely required.
 *   **Weather**: **Hot**. Highs ~34°C / Lows ~19°C. Humid but dry season.
 

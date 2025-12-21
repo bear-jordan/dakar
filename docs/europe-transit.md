@@ -2,6 +2,8 @@
 *   **Start Date**: ~Jan 16, 2026 (Based on 21-day trip duration ending Feb 6)
 *   **End Date**: ~Jan 19, 2026
 *   **Duration**: ~3-4 Days
+*   **Distance**: ~2,250 km
+*   **Drive Load**: ~9-11 Hours/Day
 *   **Visa**: Schengen (Visa-free <90 days for US/UK)
 *   **Weather**: **Cold & Wet**. France (5-10°C) with risk of **SNOW** in Pyrenees/Massif Central. Spain (10-16°C) but often rainy/windy in Tarifa.
 

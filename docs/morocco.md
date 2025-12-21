@@ -2,6 +2,8 @@
 *   **Start Date**: ~Jan 19, 2026
 *   **End Date**: ~Jan 28, 2026
 *   **Duration**: ~10 Days
+*   **Distance**: ~2,400 km (Tangier to Guerguerat)
+*   **Drive Load**: ~6-8 Hours/Day
 *   **Visa**: Visa-free (<90 days). Passport 6mo validity.
 *   **Weather**: **Variable**. North/Coast (17°C Day / 8°C Night). Atlas Mountains (**FREEZING** -5°C to 10°C, Snow possible). Desert (20°C+ Day / Cold Nights).
 

@@ -2,6 +2,8 @@
 *   **Start Date**: ~Jan 28, 2026
 *   **End Date**: ~Jan 31, 2026
 *   **Duration**: ~4 Days
+*   **Distance**: ~750 km
+*   **Drive Load**: ~8-12 Hours/Day
 *   **Visa**: **E-VISA REQUIRED IN ADVANCE**.
 *   **Weather**: **Desert Climate**. Hot Days (25-30°C) / Cool Nights (14°C). Dry. Strong winds/sandstorms possible.
 

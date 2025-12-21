@@ -2,6 +2,8 @@
 *   **Start Date**: ~Jan 31, 2026
 *   **End Date**: ~Feb 2, 2026
 *   **Duration**: ~3 Days
+*   **Distance**: ~400 km
+*   **Drive Load**: ~6-8 Hours/Day
 *   **Visa**: Visa-free (<90 days). "Senegal 1 Car Pass" required.
 *   **Weather**: **Tropical Dry**. Hot (30-33°C) / Mild Nights (16°C). Dusty (Harmattan winds).
 
