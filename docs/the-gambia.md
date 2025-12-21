@@ -11,7 +11,9 @@
 *   **Cash**: Keep ~11,000 CFA (Senegal currency) for the Barra Ferry ticket (they don't accept Dalasi or Euro usually).
 
 ### Route Map
-![Gambia Road Map](images/gambia-map.jpg)
+| Gambia Road Map |
+| :---: |
+| ![Gambia Road Map](images/gambia-map.jpg) |
 
 ## 2. Route & Driving Conditions
 *   **The Crossing**:

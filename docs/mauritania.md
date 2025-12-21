@@ -17,7 +17,9 @@
 *   **Documents**: Colour copies of Passport, V5, E-Visa for the fixer (Dahid).
 
 ### Route Map
-![Mauritania Road Map](images/mauritania-map.gif)
+| Mauritania Road Map |
+| :---: |
+| ![Mauritania Road Map](images/mauritania-map.gif) |
 
 ## 2. Route & Driving Conditions
 *   **Border Crossing (Guerguerat)**:

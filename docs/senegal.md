@@ -14,7 +14,9 @@
 *   **Mandatory Kit**: **Fire Extinguisher**. Police checks are frequent and they often ask for this (and triangles).
 
 ### Route Map
-![Senegal Road Map](images/senegal-map.gif)
+| Senegal Road Map |
+| :---: |
+| ![Senegal Road Map](images/senegal-map.gif) |
 
 ## 2. Route & Driving Conditions
 *   **The Diama Road**:

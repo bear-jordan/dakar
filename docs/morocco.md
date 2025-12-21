@@ -19,7 +19,9 @@
 *   **Insurance**: You can buy "Assurance Frontier" at the port (cabins). ~55-65€ for 2 weeks.
 
 ### Route Map
-![Morocco Route Map](images/morocco-route.jpg)
+| Morocco Route Map |
+| :---: |
+| ![Morocco Route Map](images/morocco-map.jpg) |
 
 ## 2. Route & Driving Conditions
 *   **Hazards**:

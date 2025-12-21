@@ -22,7 +22,9 @@
     *   **New 2026**: V16 Flashing Warning Beacon (magnetic orange light) replaces triangles eventually.
     *   **Speed**: Radar traps. Spot fines for foreigners (cash/card).
 ### Route Map
-![Spain Road Map](images/spain-map.jpg)
+| Spain Road Map |
+| :---: |
+| ![Spain Road Map](images/spain-map.jpg) |
 
 *   **Route to Tarifa**:
     *   Long drive (700+ miles from border).
