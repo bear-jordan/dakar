@@ -12,6 +12,7 @@ For each country (France, Spain, Morocco, Mauritania, Senegal, The Gambia), crea
 *   **End Date**: [Date]
 *   **Duration**: [X] Days
 *   **Visa**: [Summary Status]
+*   **Weather**: [High °C] / [Low °C]. [Conditions (e.g., Rain, Sandstorms, Dry Heat)]
 
 ## 1. Pre-Entry Prep
 *   **Fuel Strategy**: Fill up before border? (e.g., Cheap fuel in Western Sahara before Mauritania).
