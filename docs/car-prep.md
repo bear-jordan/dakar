@@ -34,25 +34,7 @@ Failure to carry these items can result in on-the-spot fines in Europe and Afric
     *   **E-Visa**: Mauritania E-Visa scan.
     *   *Note*: Each driver must login separately. Only the *lead driver* uploads car docs.
 
-## 2. Vehicle "Hardening" (Modifications)
-The car does not need to be a rally car, but it needs to survive "The Diama Road" and desert tracks.
-
-*   **Sump Guard**: **ESSENTIAL**.
-    *   Protect the engine oil pan. Even a basic steel plate can save your trip. Ideally 5-7 inches of clearance.
-*   **Tyres**:
-    *   **Size**: Consider fitting slightly larger tyres (higher profile, e.g., van tyres) to gain ground clearance.
-    *   **Spares**: **Two** spare wheels on rims are highly recommended.
-    *   **Type**: Standard road tyres are fine, but "All Season" or "Winter" tyres offer better grip in sand/mud.
-*   **Suspension**:
-    *   New or heavy-duty springs/shocks if possible. The car will be fully loaded on bad roads.
-*   **Roof Rack**:
-    *   **Warning**: Roof racks often collapse on corrugated desert roads. Use ratchet straps to reinforce.
-    *   Keep weight low. Only light items (swag, mats) on top if possible.
-*   **Underbody**:
-    *   Check for low-hanging hoses/cables (brake lines, fuel lines) and zip-tie them up out of harm's way.
-    *   Remove or trim low plastic splitters/bumpers that will just get ripped off.
-
-## 3. Essential Spares
+## 2. Essential Spares
 You cannot rely on finding specific parts for your specific car in the desert.
 
 *   **Fluid Top-ups**: 1L Oil, 1L Brake Fluid, 1L Power Steering Fluid, 5L Water (Coolant).
@@ -71,7 +53,7 @@ You cannot rely on finding specific parts for your specific car in the desert.
     *   Screwdrivers, Pliers, Hammer.
     *   **Jerry Cans**: Minimum **2 x 20L** Metal Cans for Fuel (Diesel preferred).
 
-## 4. Recovery Gear
+## 3. Recovery Gear
 Getting stuck is guaranteed. Be self-sufficient.
 
 *   **Sand Ladders**: **MANDATORY**. Do not enter the desert without them.
@@ -83,7 +65,7 @@ Getting stuck is guaranteed. Be self-sufficient.
 *   **Pressure Gauge**: Accurate gauge for sand driving.
 *   **Gloves**: Heavy-duty work gloves for digging/towing.
 
-## 5. Organization & Logistics
+## 4. Organization & Logistics
 *   **Walkie Talkies**: **OBLIGATORY**.
     *   **Model**: **TIDRADIO TD-H8** (Group Standard).
     *   *Setup*: User interface is tricky. Use "ODMASTER" or "TidKit" app to program.
