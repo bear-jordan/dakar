@@ -10,11 +10,6 @@
 *   **Visa**: Check current status (VOA vs Advance).
 *   **Cash**: Keep ~11,000 CFA (Senegal currency) for the Barra Ferry ticket (they don't accept Dalasi or Euro usually).
 
-### Route Map
-| Gambia Road Map |
-| :---: |
-| ![Gambia Road Map](images/gambia-map.jpg) |
-
 ## 2. Route & Driving Conditions
 *   **The Crossing**:
     *   **Option A (Preferred)**: **Barra Ferry**. Quickest route to Banjul. Unreliable/Sporadic. Chaos at ticket office.
@@ -64,6 +59,11 @@
 
 ## Recommended Route Adjustments
 *   **Ferry vs Bridge**: Taking the **Barra Ferry** lands you right in the heart of the action (Banjul) and is an experience in itself. The bridge is safer/boring but dumps you further inland.
+
+## Appendix: Route Maps
+| Gambia Road Map |
+| :---: |
+| ![Gambia Road Map](images/gambia-map.jpg) |
 
 ## Appendix: Emergency & Medical
 *   **Emergency**: **117** (Police) | **118** (Fire) | **116** (Ambulance)

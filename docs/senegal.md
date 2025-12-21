@@ -13,11 +13,6 @@
 *   **Convoy**: Must cross as a single group to use the Car Pass agreement.
 *   **Mandatory Kit**: **Fire Extinguisher**. Police checks are frequent and they often ask for this (and triangles).
 
-### Route Map
-| Senegal Road Map |
-| :---: |
-| ![Senegal Road Map](images/senegal-map.gif) |
-
 ## 2. Route & Driving Conditions
 *   **The Diama Road**:
     *   **Condition**: "Hideous and Awesome". Potholes, mud (if wet), dust gullies.
@@ -64,6 +59,11 @@
 
 ## Recommended Route Adjustments
 *   **Diama over Rosso**: This is a mandatory adjustment for safety/logistics, but also offers better scenery (wetlands/warthogs) vs the chaos of Rosso.
+
+## Appendix: Route Maps
+| Senegal Road Map |
+| :---: |
+| ![Senegal Road Map](images/senegal-map.gif) |
 
 ## Appendix: Emergency & Medical
 *   **Emergency**: **17** (Police) | **18** (Fire) | **1515** (Ambulance/SAMU)

@@ -86,11 +86,6 @@ For each country, research and log:
 *   **Border Crossing**: [Name of crossing]. [Hours]. [Expected chaos level].
 *   **Mandatory Kit**: [Vests, Triangles, Fire Extinguisher, etc.]
 
-### Route Map
-| [Country] Road Map |
-| :---: |
-| ![Map](images/[country]-map.jpg) |
-
 ## 2. Route & Driving Conditions
 *   **Road Quality**: [Tarmac vs Potholes]
 *   **Hazards**: [Animals, Speed bumps, Police traps]
@@ -109,6 +104,11 @@ For each country, research and log:
 *   **[Activity Name]** [Tag: Nature/Culture]
     *   *Description*: ...
     *   *Logistics*: ...
+
+## Appendix: Route Maps
+| [Country] Road Map |
+| :---: |
+| ![Map](images/[country]-map.jpg) |
 
 ## Appendix: Emergency & Medical
 *   **Emergency**: [Police #] | [Ambulance #]

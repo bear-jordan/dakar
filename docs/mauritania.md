@@ -16,11 +16,6 @@
     *   **Fuel**: Fill tank and jerry cans at Barbas (cheap/good quality). Mauritanian fuel is expensive and low octane.
 *   **Documents**: Colour copies of Passport, V5, E-Visa for the fixer (Dahid).
 
-### Route Map
-| Mauritania Road Map |
-| :---: |
-| ![Mauritania Road Map](images/mauritania-map.gif) |
-
 ## 2. Route & Driving Conditions
 *   **Border Crossing (Guerguerat)**:
     *   **No Man's Land**: 300m strip between borders. **Stay on the track**. Area is mined.
@@ -73,6 +68,11 @@
 
 ## Recommended Route Adjustments
 *   **Coastal Focus**: Stick to the N2 unless you have a guide for the desert. The Banc d'Arguin is the most accessible nature stop without going fully off-grid.
+
+## Appendix: Route Maps
+| Mauritania Road Map |
+| :---: |
+| ![Mauritania Road Map](images/mauritania-map.gif) |
 
 ## Appendix: Emergency & Medical
 *   **Emergency**: **117** (Police) | **118** (Fire) | **101** (Traffic Police)

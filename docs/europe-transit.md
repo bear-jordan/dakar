@@ -13,20 +13,11 @@
     *   **Tolls**: Expensive. Credit cards accepted.
 *   **Fuel**: Expensive. Fill up before highway if possible.
 
-### Route Map
-| France Road Map |
-| :---: |
-| ![France Road Map](images/france-map.gif) |
-
 ## 2. Spain
 *   **Driving Requirements**:
     *   **Kit**: **TWO** warning triangles, reflective jackets (in car), spare bulb kit, UK sticker.
     *   **New 2026**: V16 Flashing Warning Beacon (magnetic orange light) replaces triangles eventually.
     *   **Speed**: Radar traps. Spot fines for foreigners (cash/card).
-### Route Map
-| Spain Road Map |
-| :---: |
-| ![Spain Road Map](images/spain-map.jpg) |
 
 *   **Route to Tarifa**:
     *   Long drive (700+ miles from border).
@@ -60,6 +51,11 @@
 
 ## Recommended Route Adjustments
 *   **Scenic Route**: If time permits, take the A75 through France (Massif Central) instead of the flatter western toll roads. It's free (mostly) and spectacular.
+
+## Appendix: Route Maps
+| France Road Map | Spain Road Map |
+| :---: | :---: |
+| ![France Road Map](images/france-map.gif) | ![Spain Road Map](images/spain-map.jpg) |
 
 ## Appendix: Emergency & Medical
 

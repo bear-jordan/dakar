@@ -18,11 +18,6 @@
 *   **Drone Warning**: **DO NOT BRING A DRONE**. It will be confiscated, or you will be fined/searched.
 *   **Insurance**: You can buy "Assurance Frontier" at the port (cabins). ~55-65€ for 2 weeks.
 
-### Route Map
-| Morocco Route Map |
-| :---: |
-| ![Morocco Route Map](images/morocco-map.jpg) |
-
 ## 2. Route & Driving Conditions
 *   **Hazards**:
     *   **Speed Traps**: Prolific. Radar guns everywhere. Fines ~150-600 MAD.
@@ -83,6 +78,11 @@
 
 ## Recommended Route Adjustments
 *   **Atlas Mountains**: If not rushing, take the Tizi n'Test pass for incredible views, but be aware it is slow and dangerous (single track, sheer drops).
+
+## Appendix: Route Maps
+| Morocco Route Map |
+| :---: |
+| ![Morocco Route Map](images/morocco-map.jpg) |
 
 ## Appendix: Emergency & Medical
 *   **Emergency**: **19** or **112** (Police) | **15** (Fire/Ambulance) | **177** (Gendarmerie Royale - Rural)
