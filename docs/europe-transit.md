@@ -14,7 +14,9 @@
 *   **Fuel**: Expensive. Fill up before highway if possible.
 
 ### Route Map
-![France Road Map](images/france-map.gif)
+| France Road Map |
+| :---: |
+| ![France Road Map](images/france-map.gif) |
 
 ## 2. Spain
 *   **Driving Requirements**:
