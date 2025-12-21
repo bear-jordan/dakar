@@ -13,11 +13,17 @@
     *   **Tolls**: Expensive. Credit cards accepted.
 *   **Fuel**: Expensive. Fill up before highway if possible.
 
+### Route Map
+![France Road Map](images/france-map.gif)
+
 ## 2. Spain
 *   **Driving Requirements**:
     *   **Kit**: **TWO** warning triangles, reflective jackets (in car), spare bulb kit, UK sticker.
     *   **New 2026**: V16 Flashing Warning Beacon (magnetic orange light) replaces triangles eventually.
     *   **Speed**: Radar traps. Spot fines for foreigners (cash/card).
+### Route Map
+![Spain Road Map](images/spain-map.jpg)
+
 *   **Route to Tarifa**:
     *   Long drive (700+ miles from border).
     *   **Tolls**: Some "Peage" roads towards south.

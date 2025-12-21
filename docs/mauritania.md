@@ -16,6 +16,9 @@
     *   **Fuel**: Fill tank and jerry cans at Barbas (cheap/good quality). Mauritanian fuel is expensive and low octane.
 *   **Documents**: Colour copies of Passport, V5, E-Visa for the fixer (Dahid).
 
+### Route Map
+![Mauritania Road Map](images/mauritania-map.gif)
+
 ## 2. Route & Driving Conditions
 *   **Border Crossing (Guerguerat)**:
     *   **No Man's Land**: 300m strip between borders. **Stay on the track**. Area is mined.

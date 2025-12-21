@@ -18,6 +18,9 @@
 *   **Drone Warning**: **DO NOT BRING A DRONE**. It will be confiscated, or you will be fined/searched.
 *   **Insurance**: You can buy "Assurance Frontier" at the port (cabins). ~55-65€ for 2 weeks.
 
+### Route Map
+![Morocco Route Map](images/morocco-route.jpg)
+
 ## 2. Route & Driving Conditions
 *   **Hazards**:
     *   **Speed Traps**: Prolific. Radar guns everywhere. Fines ~150-600 MAD.
