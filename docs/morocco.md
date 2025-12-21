@@ -34,8 +34,9 @@
 ## 3. Required Stops
 *   **Rest Stops**: Chefchaouen (Blue City), Marrakech or Fez.
 *   **Mandatory Rally Point**: **Hotel Barbas** (Bir Gandouz).
+    *   **Date**: **Jan 27th** (Arrive evening).
     *   Located ~60 miles before the Mauritanian border.
-    *   **MUST** meet here to convoy for the border crossing.
+    *   **MUST** meet here to convoy for the border crossing early morning Jan 28th.
     *   Fill fuel cans here (3 stations available).
 
 ## 4. Safety & Culture (Practical)

@@ -9,7 +9,7 @@
 *   **Visa**: **E-VISA REQUIRED IN ADVANCE**. No longer available at border. Bring 2 colour copies.
     *   *Application*: Address field: "Travelling with Dahid Jdeidou of Levrigue Agence".
     *   *Warning*: **DO NOT USE THE WORD 'RALLY'** on the application.
-*   **Meeting Point**: **Hotel Barbas** (Morocco side). Leave at 6:00 AM to hit border early.
+*   **Meeting Point**: **Hotel Barbas** (Morocco side). Leave at 6:00 AM on **Jan 28th** to hit border early.
 *   **Supplies**:
     *   **Alcohol**: **STRICTLY PROHIBITED**. Dry country. 
         *   *Risk*: Fines up to **€100 per bottle** if found. Decant/Hide well or don't bring.
@@ -37,6 +37,7 @@
 ## 3. Required Stops
 *   **Nouakchott**:
     *   **Meeting Point**: Roundabout near American Embassy (09:00/09:30 AM).
+    *   **Date**: **Jan 31st**.
     *   **Objective**: Convoy to Diama border.
 *   **Fuel/Tyre Stop**: "Red Petrol Station" en route to Diama. Last chance to fix cars/buy water (20 min limit).
 

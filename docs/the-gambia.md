@@ -6,7 +6,7 @@
 *   **Weather**: **Hot**. Highs ~34°C / Lows ~19°C. Humid but dry season.
 
 ## 1. Pre-Entry Prep
-*   **Border**: **Karang**. Meet at 12:00 Midday.
+*   **Border**: **Karang**. Meet at 12:00 Midday on **Feb 2nd**.
 *   **Visa**: Check current status (VOA vs Advance).
 *   **Cash**: Keep ~11,000 CFA (Senegal currency) for the Barra Ferry ticket (they don't accept Dalasi or Euro usually).
 
@@ -21,6 +21,7 @@
 
 ## 3. Required Stops
 *   **Finish Line**: **Bakadaji Hotel**.
+    *   **Date**: **Feb 6th** (Official Finish Line event).
     *   *Booking*: Book direct via FB thread (Dave checks). Mention "Dakar Challenge" for discount.
     *   Official finish line photo op.
     *   Car handover location.

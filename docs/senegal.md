@@ -25,12 +25,13 @@
 
 ## 3. Required Stops
 *   **Zebrabar (Rao/St Louis)**:
+    *   **Date**: **Jan 31st / Feb 1st**.
     *   **Status**: Legendary Mandatory rest/repair stop.
     *   **Camping**: **No Booking Needed**. Unlimited space.
     *   **Facilities**: Ramps, mechanic, showers, cold beer (honesty bar).
     *   **Payment**: Cash (CFA/Euro) or Sendwave app.
 *   **Route to Gambia**:
-    *   Leave Zebrabar early. Meet at **Karang Border** by 12:00 Midday.
+    *   Leave Zebrabar early **Feb 2nd**. Meet at **Karang Border** by 12:00 Midday.
 
 ## 4. Safety & Culture (Practical)
 *   **Currency**: CFA (West African Franc). Linked to Euro.

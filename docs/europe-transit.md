@@ -23,6 +23,7 @@
     *   **Tolls**: Some "Peage" roads towards south.
 *   **Tarifa**:
     *   **Meeting Point**: **Hotel Mesón de Sancho**.
+    *   **Date**: Arrive by **Jan 18th** (for "Shit Shirts Night"). Ferry **Jan 19th**.
     *   **Prep**: Buy ferry tickets at FRS office in Algeciras or online.
 
 ## 3. Gibraltar (Optional Stop)
