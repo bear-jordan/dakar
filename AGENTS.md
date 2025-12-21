@@ -12,6 +12,7 @@ The primary task is organizing the raw `docs/_roadbook.txt` into structured guid
 - **Source Material**: Strictly use `docs/_roadbook.txt`.
 - **Output**: Structured Markdown files in `docs/` (e.g., `morocco.md`, `visas.md`).
 - **Plans**: Structured Markdown files in `plans/`; write details of tasked assigned to you here
+- **Tracking**: Maintain `docs/_todos.md`. Add new requirements or action items here as they are discovered.
 
 ## Style & Structure
 - **Format**: Follow the "Example Country Page" in `README.md`.
