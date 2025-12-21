@@ -81,3 +81,4 @@
 *   **UK Embassy**: No Consular Services in Nouakchott. Contact Rabat (+212 537 633 333) or London.
 *   **NZ Assistance**: No Embassy. **24/7 Emergency**: +64 99 20 20 20
 *   **NL Honorary Consul (Nouakchott)**: +222 45 25 24 82 | **24/7 Emergency**: +31 247 247 247
+*   **FR Embassy (Nouakchott)**: +222 45 29 96 99 | **Emergency (Nights/Weekends)**: +222 45 29 95 15

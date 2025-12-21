@@ -72,3 +72,4 @@
 *   **UK Embassy (Banjul)**: +220 4495 133
 *   **NZ Assistance**: No Embassy. **24/7 Emergency**: +64 99 20 20 20
 *   **NL Honorary Consul (Banjul)**: +220 586 07 00 | **24/7 Emergency**: +31 247 247 247
+*   **FR Representation**: No Embassy in Banjul. Covered by **Dakar Consulate**: +221 33 839 52 62.

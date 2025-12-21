@@ -73,3 +73,4 @@
 *   **UK Embassy (Dakar)**: +221 33 823 7392
 *   **NZ Assistance**: No Embassy. **24/7 Emergency**: +64 99 20 20 20
 *   **NL Embassy (Dakar)**: +221 33 829 21 21 (24/7 contact via +31 247 247 247 if needed)
+*   **FR Consulate General (Dakar)**: +221 33 839 52 62 | **Emergency (Nights/Weekends)**: +221 33 839 51 09

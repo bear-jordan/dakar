@@ -92,3 +92,8 @@
 *   **UK Embassy (Rabat)**: +212 (537) 633-333
 *   **NZ Assistance**: Contact Embassy in Madrid (+34 915 230 226) or **24/7 Emergency**: +64 99 20 20 20
 *   **NL Embassy (Rabat)**: +212 537 21 96 00 (24/7)
+*   **FR Consulates (Emergency/Permanence)**:
+    *   **Rabat**: +212 6 61 43 34 23
+    *   **Marrakech**: +212 6 61 34 42 89
+    *   **Tanger**: +212 6 61 16 23 37
+    *   **Agadir**: +212 6 61 38 53 28

@@ -72,3 +72,7 @@
 *   **UK Embassy (Madrid)**: +34-91-714-6300
 *   **NZ Embassy (Madrid)**: +34 91 523 02 26 | **24/7 Emergency**: +64 99 20 20 20
 *   **NL Embassy (Madrid)**: +34 91 353 75 00 (24/7)
+*   **FR Consulates (Spain)**:
+    *   **Madrid**: +34 91 700 78 00
+    *   **Barcelona**: +34 93 270 30 00
+    *   **Seville**: +34 954 29 32 00
