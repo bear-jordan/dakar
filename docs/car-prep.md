@@ -71,9 +71,16 @@ Getting stuck is guaranteed. Be self-sufficient.
     *   *Setup*: User interface is tricky. Use "ODMASTER" or "TidKit" app to program.
     *   *Usage*: Required for convoy communication (sand driving, police checks, overtaking).
     *   *Note*: Hide them at borders (technically licensed in some countries).
-*   **Water Storage**:
+*   **Water Storage & Purification**:
     *   Carry **double** the water you think you need.
     *   Large 5L/10L containers for emergency use.
+    *   **Group Backup**: Bring **Chlorine Dioxide Drops** (e.g., Aquamira/Lifesystems) or Iodine Tablets as an emergency backup if bottled water runs out.
+    *   *Sourcing*: Available at Cotswold Outdoor, Snow+Rock, or Superdrug/Boots in London.
+    *   *Flying*: Chlorine Dioxide is an oxidizer and **prohibited** in carry-on/checked luggage. Buy in London or check specific airline hazmat rules carefully. Iodine tablets are generally fine in checked bags.
+*   **Emergency Food**:
+    *   **Concept**: Be ready for 1-2 nights of unplanned camping (breakdowns/border delays).
+    *   **Stash**: Non-perishable, ready-to-eat snacks (nuts, jerky, energy bars, tinned fish/fruit).
+    *   **Cooking**: Since group gear (stoves) is available, carry some "just add water" meals (noodles/couscous) as a backup.
 *   **Keys**: Bring a **SPARE SET** and keep them on a different person/magnetic box hidden on car.
 *   **Navigation**:
     *   **Offline Maps**: Maps.me / OsmAnd+ (Download all country maps *before* leaving).
