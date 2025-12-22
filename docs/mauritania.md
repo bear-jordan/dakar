@@ -45,7 +45,7 @@
 
 ## 4. Safety & Culture (Practical)
 *   **Currency**: Ouguiya. Closed currency. Change at border.
-*   **Religion**: Conservative Muslim. Modest dress recommended.
+*   **Culture**: Conservative society. Roadbook suggests modest dress.
 *   **Alcohol**: Zero tolerance.
 
 ## 5. Pre-Exit Checklist

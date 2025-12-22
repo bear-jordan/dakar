@@ -17,9 +17,9 @@ You will experience -5°C in the Atlas Mountains and +40°C in the Sahara. Layer
     *   *Why?* Sun protection, bug protection (malaria mosquitoes), and cultural modesty.
 *   **Sandals**: For the hot days in the car.
 
-### Cultural Modesty (Important)
-*   **Women**: Long skirts/trousers and loose tops covering shoulders/chest are recommended in Mauritania and rural Morocco. Headscarf not strictly required but useful to have.
-*   **Men**: Long trousers are preferred over shorts in conservative areas.
+### Cultural Respect
+*   **Modesty**: Roadbook suggests covering shoulders and knees in Mauritania and rural Morocco to respect local customs and avoid unwanted attention.
+*   **Headscarf**: Not strictly required, but useful for dust protection and blending in.
 *   **Senegal/Gambia**: Dress becomes much more liberal/vibrant.
 
 ## 2. Camping System
