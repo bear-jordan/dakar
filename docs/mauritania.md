@@ -30,7 +30,7 @@
 *   **Road vs. Desert**:
     *   **Decision**: You must choose "Desert" or "Road" group.
     *   **Road Route**: N2 to Nouakchott. Tarmac is generally good but has a battered section.
-    *   **Desert Route**: **GUIDE ESSENTIAL** (Dahid). Sand ladders/4x4 required. Dinner provided (BBQ).
+    *   **Desert Route**: **GUIDE ESSENTIAL** (Dahid). Sand ladders/4x4 required. Dinner provided (BBQ). **Camping Only** (1 night).
 *   **Hazards**:
     *   **Mines**: Small piles of rocks near the road indicate mines. **DO NOT LEAVE TARMAC** for toilet stops without checking.
     *   **Heat**: Carry double the water you think you need.
