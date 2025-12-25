@@ -17,26 +17,26 @@ Failure to meet these deadlines may result in missing the convoy, border crossin
 
 ## Daily Rhythm & Drive Loads
 
-### 1. Europe: The Cruise (Jan 15 - 21)
+### 1. Europe: Jan 15 - 21
 *   **Objective**: Relax and arrive in Spain fresh.
 *   **Route**: Portsmouth -> Santander (Brittany Ferries) -> Cadiz.
 *   **Drive Load**: **Low**. 2 nights on ferry. 1-2 days driving in Spain (~1000km).
 *   **Reality**: A significant upgrade from the original "Sprint".
 *   **Fuel**: Fill up in Spain (cheaper than France/UK).
 
-### 2. Morocco: The Marathon (Jan 21 - 30)
+### 2. Morocco: Jan 21 - 30
 *   **Distance**: ~2,000 km (Tangier to Barbas).
 *   **Drive Load**: **~5-7 Hours/Day** (North) -> **~7-9 Hours/Day** (South/Western Sahara).
 *   **Reality**: North is slow (mountains/traffic). South is fast but monotonous (endless desert highway).
 *   **Hazards**: Speed traps (Sign trick!), Night driving (Don't do it).
 
-### 3. The Desert: The Challenge (Jan 31 - Feb 2)
+### 3. The Desert: Jan 31 - Feb 2
 *   **Distance**: ~500 km (Barbas to Nouakchott).
 *   **Drive Load**: **~8-12 Hours/Day** (Variable).
 *   **Reality**: "No Man's Land" crossing takes hours. The drive to Nouakchott is paved but potholed and windy.
 *   **Logistics**: **Jerry cans essential**. No alcohol. Water discipline.
 
-### 4. West Africa: The Slog (Feb 2 - Feb 6)
+### 4. West Africa: Feb 2 - Feb 6
 *   **Distance**: ~350 km (Nouakchott to Banjul).
 *   **Drive Load**: **~6-8 Hours/Day** (despite short distances).
 *   **Reality**: The road to Diama is bad (mud/potholes). Border crossings are slow. Speed bumps in Senegal kill momentum. Ferries in Gambia are unpredictable.
