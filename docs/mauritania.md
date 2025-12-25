@@ -4,6 +4,7 @@
 *   **Duration**: ~4 Days
 *   **Distance**: ~750 km
 *   **Drive Load**: ~8-12 Hours/Day
+*   **Currency**: Ouguiya (MRU). Coffee ~€1, Meal ~€5, Hotel ~€40; Credit Cards: **Cities Only**.
 *   **Visa**: **E-VISA REQUIRED IN ADVANCE**.
 *   **Weather**: **Desert Climate**. Hot Days (25-30°C) / Cool Nights (14°C). Dry. Strong winds/sandstorms possible.
 
@@ -44,9 +45,9 @@
 *   **Fuel/Tyre Stop**: "Red Petrol Station" en route to Diama. Last chance to fix cars/buy water (20 min limit).
 
 ## 4. Safety & Culture (Practical)
-*   **Currency**: Ouguiya. Closed currency. Change at border.
-*   **Culture**: Conservative society. Roadbook suggests modest dress.
-*   **Alcohol**: Zero tolerance.
+*   **Currency**: Ouguiya (MRU). Coffee ~€1, Meal ~€5, Hotel ~€40; Credit Cards: **Cities Only**.
+*   **Visa**: **E-VISA REQUIRED IN ADVANCE**. Must apply online *before* travel. No VOA.
+*   **Weather**: **Desert Climate**. Hot Days (25-30°C) / Cool Nights (14°C). Dry. Strong winds/sandstorms possible.
 
 ## 5. Pre-Exit Checklist
 *   **Convoy**: MUST travel to Diama border as a group.

@@ -4,6 +4,7 @@
 *   **Duration**: ~6 Days
 *   **Distance**: ~25 km (Border to Ferry/Capital)
 *   **Drive Load**: ~4-6 Hours/Day
+*   **Currency**: Dalasi (GMD). Coffee ~€2, Meal ~€4, Hotel ~€30; Credit Cards: **Cities**.
 *   **Visa**: Check VOA status. Likely required.
 *   **Weather**: **Hot**. Highs ~34°C / Lows ~19°C. Humid but dry season.
 

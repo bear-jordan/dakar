@@ -36,15 +36,6 @@
     *   "Shit Shirts Night" (Traditional rally event).
 *   **Departure**: **Jan 21 @ 09:00 CET** (Tangier Express from Algeciras).
 
-## 4. Backup Route: Driving Through France
-*(Only if Ferry is cancelled)*
-*   **Route**: Calais -> Rouen -> Bordeaux -> Biarritz -> Spain.
-*   **Distance**: ~2,250 km (Calais to Tarifa).
-*   **Drive Load**: **Severe** (9-11 Hours/Day to catch up).
-*   **Requirements**:
-    *   **Crit-Air Sticker**: Mandatory for French cities.
-    *   **Kit**: Breathalyzer, Warning Triangle, Hi-Vis.
-
 ## Fun Things to Do (Spain)
 *   **Seville Cathedral** [Cultural]
     *   *Description*: Largest Gothic cathedral in the world. Christopher Columbus's tomb.
@@ -60,6 +51,14 @@
 | ![Spain Road Map](images/spain-map.jpg) |
 
 ## Appendix: Emergency & Medical
-*   **Spain Emergency**: **112** (All Services)
-*   **UK Embassy (Madrid)**: +34-91-714-6300
+
+### Spain
+*   **Emergency**: **112** (All Services)
 *   **US Embassy (Madrid)**: +34-91-587-2200
+*   **UK Embassy (Madrid)**: +34-91-714-6300
+*   **NZ Embassy (Madrid)**: +34 91 523 02 26 | **24/7 Emergency**: +64 99 20 20 20
+*   **NL Embassy (Madrid)**: +34 91 353 75 00 (24/7)
+*   **FR Consulates (Spain)**:
+    *   **Madrid**: +34 91 700 78 00
+    *   **Barcelona**: +34 93 270 30 00
+    *   **Seville**: +34 954 29 32 00

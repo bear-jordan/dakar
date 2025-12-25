@@ -4,6 +4,7 @@
 *   **Duration**: ~9-10 Days
 *   **Distance**: ~2,400 km (Tangier to Guerguerat)
 *   **Drive Load**: ~6-8 Hours/Day
+*   **Currency**: Dirham (MAD). Coffee ~€1.50, Meal ~€7, Hotel ~€30; Credit Cards: **Cities/Tourist Areas**.
 *   **Visa**: Visa-free (<90 days). Passport 6mo validity.
 *   **Weather**: **Variable**. North/Coast (17°C Day / 8°C Night). Atlas Mountains (**FREEZING** -5°C to 10°C, Snow possible). Desert (20°C+ Day / Cold Nights).
 

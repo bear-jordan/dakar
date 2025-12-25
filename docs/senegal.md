@@ -4,6 +4,7 @@
 *   **Duration**: ~4 Days
 *   **Distance**: ~400 km
 *   **Drive Load**: ~6-8 Hours/Day
+*   **Currency**: CFA Franc (XOF). Coffee ~€1.50, Meal ~€4, Hotel ~€30-50; Credit Cards: **Cities**.
 *   **Visa**: Visa-free (<90 days). "Senegal 1 Car Pass" required.
 *   **Weather**: **Tropical Dry**. Hot (30-33°C) / Mild Nights (16°C). Dusty (Harmattan winds).
 
@@ -41,7 +42,7 @@
     *   Leave Somone early **Feb 5th**. Meet at **Karang Border**.
 
 ## 4. Safety & Culture (Practical)
-*   **Currency**: CFA (West African Franc). Linked to Euro.
+*   **Currency**: CFA Franc (XOF). Coffee ~€1.50, Meal ~€4, Hotel ~€30-50; Credit Cards: **Cities**.
 *   **Culture**: More liberal dress code than Mauritania. Vibrant.
 *   **Fuel**: Cheaper than Mauritania. Fill up near Zebrabar.
 
