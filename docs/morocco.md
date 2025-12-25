@@ -1,16 +1,17 @@
-# Morocco (~Jan 19 -- Jan 28 2026)
-*   **Start Date**: ~Jan 19, 2026
-*   **End Date**: ~Jan 28, 2026
-*   **Duration**: ~10 Days
+# Morocco (~Jan 21 -- Jan 30 2026)
+*   **Start Date**: Jan 21, 2026 (Ferry Landing)
+*   **End Date**: ~Jan 30, 2026
+*   **Duration**: ~9-10 Days
 *   **Distance**: ~2,400 km (Tangier to Guerguerat)
 *   **Drive Load**: ~6-8 Hours/Day
 *   **Visa**: Visa-free (<90 days). Passport 6mo validity.
 *   **Weather**: **Variable**. North/Coast (17°C Day / 8°C Night). Atlas Mountains (**FREEZING** -5°C to 10°C, Snow possible). Desert (20°C+ Day / Cold Nights).
 
 ## 1. Pre-Entry Prep
-*   **Ferry**: Preferred route is **Algeciras to Tangier Med**.
-    *   *Why*: Immigration is done *on the ferry* (saving hours).
-    *   *Timing*: 08:00 or 09:00 sailings recommended. Cost ~€229 (Car+2pax).
+*   **Ferry**: **Tangier Express** (FRS/DFDS).
+    *   **Depart**: **Jan 21 @ 09:00 CET** (Algeciras).
+    *   **Arrive**: **Jan 21 @ 10:30 GMT+1** (Tangier Med).
+    *   *Note*: Immigration is done *on the ferry* (saving hours).
 *   **Documents**:
     *   **Immigration Card**: Fill out on ferry. Use "CIN" number if you have visited before.
     *   **Vehicle Import**: "Passavant" (Green/White card) issued at customs. **DO NOT LOSE THIS**. It is your car's passport.
@@ -36,9 +37,9 @@
 ## 3. Required Stops
 *   **Rest Stops**: Chefchaouen (Blue City), Marrakech or Fez.
 *   **Mandatory Rally Point**: **Hotel Barbas** (Bir Gandouz).
-    *   **Date**: **Jan 27th** (Arrive evening).
+    *   **Date**: **Jan 30th** (Arrive evening).
     *   Located ~60 miles before the Mauritanian border.
-    *   **MUST** meet here to convoy for the border crossing early morning Jan 28th.
+    *   **MUST** meet here to convoy for the border crossing early morning Jan 31st.
     *   Fill fuel cans here (3 stations available).
 
 ## 4. Safety & Culture (Practical)

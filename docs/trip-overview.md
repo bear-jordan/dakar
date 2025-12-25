@@ -5,37 +5,38 @@ This document serves as the high-level operational "Command Center" for the expe
 ## The Critical Path (Deadlines)
 Failure to meet these deadlines may result in missing the convoy, border crossings, or the finish line events.
 
-*   **Jan 16 (Day 1)**: **START** (London/Calais).
-*   **Jan 18 (Day 3)**: **DEADLINE** - Arrival in **Tarifa** (Spain) for "Shit Shirts Night".
-*   **Jan 19 (Day 4)**: **Ferry Crossing** to Tangier Med (08:00/09:00 AM sailing).
-*   **Jan 27 (Day 12)**: **DEADLINE** - Arrival at **Hotel Barbas** (Morocco South) by evening.
-*   **Jan 28 (Day 13)**: **CONVOY** - Cross Mauritanian Border (Guerguerat) at 06:00 AM.
-*   **Jan 31 (Day 16)**: **CONVOY** - Cross Diama Border (Mauritania -> Senegal) at 09:00 AM.
-*   **Feb 02 (Day 18)**: **CONVOY** - Cross Karang Border (Senegal -> Gambia) at 12:00 Midday.
-*   **Feb 06 (Day 22)**: **FINISH** - Official Finish Line at Bakadaji Hotel.
+*   **Jan 15 (Day 1)**: **START** (Portsmouth). Ferry to Santander.
+*   **Jan 17 (Day 3)**: **Arrival** in Santander. Drive South.
+*   **Jan 19 (Day 5)**: **DEADLINE** - Arrival at **Mesón de Sancho** (Cadiz/Tarifa).
+*   **Jan 21 (Day 7)**: **Ferry Crossing** to Tangier Med (09:00 AM sailing).
+*   **Jan 30 (Day 16)**: **DEADLINE** - Arrival at **Hotel Barbas** (Morocco South) by evening.
+*   **Jan 31 (Day 17)**: **CONVOY** - Cross Mauritanian Border (Guerguerat) at 06:00 AM.
+*   **Feb 02 (Day 19)**: **CONVOY** - Cross Diama Border (Mauritania -> Senegal) / Arrive Zebrabar.
+*   **Feb 05 (Day 22)**: **CONVOY** - Cross Karang Border (Senegal -> Gambia).
+*   **Feb 06 (Day 23)**: **FINISH** - Official Finish Line at Bakadaji Hotel.
 
 ## Daily Rhythm & Drive Loads
 
-### 1. Europe: The Sprint (Jan 16 - 19)
-*   **Objective**: Get south as fast as possible.
-*   **Distance**: ~2,225 km (Calais to Tarifa).
-*   **Drive Load**: **~9-11 Hours/Day**.
-*   **Reality**: It is a boring motorway slog. Rotate drivers frequently. Avoid Paris.
-*   **Fuel**: Expensive (France) -> Moderate (Spain) -> Cheap (Gibraltar/Morocco).
+### 1. Europe: The Cruise (Jan 15 - 21)
+*   **Objective**: Relax and arrive in Spain fresh.
+*   **Route**: Portsmouth -> Santander (Brittany Ferries) -> Cadiz.
+*   **Drive Load**: **Low**. 2 nights on ferry. 1-2 days driving in Spain (~1000km).
+*   **Reality**: A significant upgrade from the original "Sprint".
+*   **Fuel**: Fill up in Spain (cheaper than France/UK).
 
-### 2. Morocco: The Marathon (Jan 19 - 27)
+### 2. Morocco: The Marathon (Jan 21 - 30)
 *   **Distance**: ~2,000 km (Tangier to Barbas).
 *   **Drive Load**: **~5-7 Hours/Day** (North) -> **~7-9 Hours/Day** (South/Western Sahara).
 *   **Reality**: North is slow (mountains/traffic). South is fast but monotonous (endless desert highway).
 *   **Hazards**: Speed traps (Sign trick!), Night driving (Don't do it).
 
-### 3. The Desert: The Challenge (Jan 28 - 31)
+### 3. The Desert: The Challenge (Jan 31 - Feb 2)
 *   **Distance**: ~500 km (Barbas to Nouakchott).
 *   **Drive Load**: **~8-12 Hours/Day** (Variable).
 *   **Reality**: "No Man's Land" crossing takes hours. The drive to Nouakchott is paved but potholed and windy.
 *   **Logistics**: **Jerry cans essential**. No alcohol. Water discipline.
 
-### 4. West Africa: The Slog (Jan 31 - Feb 6)
+### 4. West Africa: The Slog (Feb 2 - Feb 6)
 *   **Distance**: ~350 km (Nouakchott to Banjul).
 *   **Drive Load**: **~6-8 Hours/Day** (despite short distances).
 *   **Reality**: The road to Diama is bad (mud/potholes). Border crossings are slow. Speed bumps in Senegal kill momentum. Ferries in Gambia are unpredictable.

@@ -1,7 +1,7 @@
-# Senegal (~Jan 31 -- Feb 2 2026)
-*   **Start Date**: ~Jan 31, 2026
-*   **End Date**: ~Feb 2, 2026
-*   **Duration**: ~3 Days
+# Senegal (Feb 2 -- Feb 5 2026)
+*   **Start Date**: **Feb 2, 2026**
+*   **End Date**: **Feb 5, 2026**
+*   **Duration**: ~4 Days
 *   **Distance**: ~400 km
 *   **Drive Load**: ~6-8 Hours/Day
 *   **Visa**: Visa-free (<90 days). "Senegal 1 Car Pass" required.
@@ -27,13 +27,18 @@
 
 ## 3. Required Stops
 *   **Zebrabar (Rao/St Louis)**:
-    *   **Date**: **Jan 31st / Feb 1st**.
+    *   **Date**: **Feb 2 - Feb 4** (2 Nights).
     *   **Status**: Legendary Mandatory rest/repair stop.
-    *   **Accommodation**: We have rooms at Zebrabar
+    *   **Accommodation**: Reserved.
     *   **Facilities**: Ramps, mechanic, showers, cold beer (honesty bar).
     *   **Payment**: Cash (CFA/Euro) or Sendwave app.
+*   **Sénébreizh (Somone)**:
+    *   **Date**: **Feb 4 - Feb 5** (1 Night).
+    *   **Location**: Port de peche, Somone.
+    *   **Detail**: "California dreams in Somone" booking.
+    *   **Price**: NZD 232.06 (Confirmed).
 *   **Route to Gambia**:
-    *   Leave Zebrabar early **Feb 2nd**. Meet at **Karang Border** by 12:00 Midday.
+    *   Leave Somone early **Feb 5th**. Meet at **Karang Border**.
 
 ## 4. Safety & Culture (Practical)
 *   **Currency**: CFA (West African Franc). Linked to Euro.

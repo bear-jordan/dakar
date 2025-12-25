@@ -1,14 +1,14 @@
-# The Gambia (~Feb 2 -- Feb 6 2026)
-*   **Start Date**: ~Feb 2, 2026
-*   **End Date**: **Feb 6, 2026** (Official Finish Line)
-*   **Duration**: ~4 Days
+# The Gambia (Feb 5 -- Feb 11 2026)
+*   **Start Date**: **Feb 5, 2026**
+*   **End Date**: **Feb 11, 2026** (Check-out)
+*   **Duration**: ~6 Days
 *   **Distance**: ~25 km (Border to Ferry/Capital)
 *   **Drive Load**: ~4-6 Hours/Day
 *   **Visa**: Check VOA status. Likely required.
 *   **Weather**: **Hot**. Highs ~34°C / Lows ~19°C. Humid but dry season.
 
 ## 1. Pre-Entry Prep
-*   **Border**: **Karang**. Meet at 12:00 Midday on **Feb 2nd**.
+*   **Border**: **Karang**. Meet at 12:00 Midday on **Feb 5th**.
 *   **Visa**: Check current status (VOA vs Advance).
 *   **Cash**: Keep ~11,000 CFA (Senegal currency) for the Barra Ferry ticket (they don't accept Dalasi or Euro usually).
 
@@ -22,11 +22,12 @@
     *   Checkpoints frequent for right-hand drive cars (non-local plates).
 
 ## 3. Required Stops
-*   **Finish Line**: **Bakadaji Hotel**.
-    *   **Date**: **Feb 6th** (Official Finish Line event).
-    *   *Booking*: Book direct via FB thread (Dave checks). Mention "Dakar Challenge" for discount.
-    *   Official finish line photo op.
-    *   Car handover location.
+*   **Finish Line**: **Bakadaji Hotel** (Serrekunda).
+    *   **Check-in**: **Feb 5th** (15:00 GMT).
+    *   **Check-out**: **Feb 11th** (11:00 GMT).
+    *   **Status**: Confirmed Booking.
+    *   **Official Finish Line**: Feb 6th (Usually).
+    *   **Car Handover**: Occurs here or nearby.
 
 ## 4. Vehicle Handover (End Game)
 *   **Procedure**:
